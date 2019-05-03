@@ -11,10 +11,12 @@ We will also use the things we learned the last sessions, like: List Comprehensi
 ## Required reading
 * [9.8. Iterators](https://docs.python.org/3/tutorial/classes.html#iterators)
 * [9.9. Generators](https://docs.python.org/3/tutorial/classes.html#generators)
-* [Introduction to Python Generators](https://realpython.com/introduction-to-python-generators/)
+* [9.10. Generator Expressions](https://docs.python.org/3/tutorial/classes.html#generator-expressions)
 * [iter](https://docs.python.org/3/library/functions.html#iter)
 * [next](https://docs.python.org/3/library/functions.html#next)
 
+### Supplementary reading
+* [Introduction to Python Generators](https://realpython.com/introduction-to-python-generators/)
 
 ## Exercises
 * [All exercises](/exercises)

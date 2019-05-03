@@ -8,7 +8,24 @@
     
 """
 class PythonStudents:
-    pass
+    def __init__(self):
+        self.students = []
+        self.num = 0 # initial value
+    
+    def __add__(self, student):
+        self.students.append(student)
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        
+        if len(self.students) > self.num:
+            x = self.students[self.num]
+            self.num += 1
+            return x
+        else:
+            raise StopIteration
 
 
 

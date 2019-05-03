@@ -2,6 +2,7 @@
 > Agenda 03-05-2019
 
 Today we will look at:
+* Iterator class
 * Generators
 * Generator expressions
 
